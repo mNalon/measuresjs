@@ -20,7 +20,6 @@
   ],
   "author": "Jonatas Pedraza <jonatas.pedraza@corp.globo.com>",
   "license": "MIT License",
-  
   "dependencies": {
     "async": "^1.4.0",
     "debug": "^4.1.1"
